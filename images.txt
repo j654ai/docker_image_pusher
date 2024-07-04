@@ -1,1 +1,1 @@
-ztncui/ztncui:latest
+keynetworks/ztncui
