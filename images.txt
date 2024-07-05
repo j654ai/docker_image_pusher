@@ -1,1 +1,1 @@
-jonnyan404/zerotier-moon:latest
+minio/mc
