@@ -1,1 +1,1 @@
-zerotier-cli
+zerotier
