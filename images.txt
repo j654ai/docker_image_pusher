@@ -1,1 +1,1 @@
-snowdreamtech/frps
+jc21/nginx-proxy-manager
