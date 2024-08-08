@@ -1,1 +1,1 @@
-xueandyue/next-web-pandora:accessToken
+minio/minio
